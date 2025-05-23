@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rajul Bafna!
+# 👋 Hi, I'm Rajul Bafna!
 
 I'm a Computer Science undergrad with a strong passion for Artificial Intelligence and problem-solving. I enjoy building real-world projects, exploring innovative ideas, and working at the intersection of tech and impact.
 
